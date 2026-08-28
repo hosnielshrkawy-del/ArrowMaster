@@ -1,0 +1,13 @@
+* text=auto
+*.cs text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.bat eol=crlf
+*.exe binary
+*.dll binary
+*.asset binary
+*.scene binary
+*.prefab binary
+*.anim binary
