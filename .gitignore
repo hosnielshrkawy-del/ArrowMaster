@@ -1,24 +1,33 @@
-# Unity
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
-*.unitypackage
-
-# IDE
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.booproj
+.DS_Store
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Local files
+.gradle/
+local.properties
+*.apk
+*.aar
+*.so
+*.dylib
+*.deb
+*.exe
+*.out
+*.app
+*.class
 *.log
-.env
+*.jar
 node_modules/
+dist/
+.env
+.env.local
